@@ -1,0 +1,83 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.section-0{
+  background-color: #CDEEFF;
+}
+.navbar{
+  margin: 0% 12%;
+  padding: 0% 12%;
+}
+.nav-brand{
+  margin:0% 12%;
+}
+.dropdown-toggle{
+  margin-right: 15%;
+}
+.container-fluid{
+  margin: 0% 7%;
+  padding:1% 15%;
+}
+
+#homepage-welcome{
+  margin: 0%;
+  background-color: #CDEEFF;
+}
+h1{
+  padding: 15% 15%;
+  text-align: left;
+  margin-left: 10%;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+.homeimg{
+  margin: 8% 0%;
+  width: 400px;
+  height: 300px;
+}
+
+#homepage-explain{
+  margin: 7% 10%;
+  padding: 0%;
+  background-color: white;
+}
+.homeexplain-img{
+  width: 400px;
+  height: 300px;
+  border-radius: 20%;
+  margin:2% 4%;
+}
+p{
+  text-align: left;
+}
+.content-color{
+  background-color:#CDEEFF ;
+  border-radius: 40px;
+  
+}
+.register-button{
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  border-radius: 40px;
+}
+.button-margin{
+  padding-left: 25%;
+}
+button>a{
+  color: black;
+}
+.text p {
+  background-color: white;
+  padding:5% 9%;
+  margin: 3% 10%;
+  border-radius: 40px;
+  width: 350px;
+  text-align: left;
+  color: black;
+}
+.homepage-footer{
+  margin: 1% 45%;
+  font-weight: 50;
+}

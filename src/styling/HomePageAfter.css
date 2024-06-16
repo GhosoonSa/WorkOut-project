@@ -1,0 +1,51 @@
+#feature{
+    padding: 7% 12%;
+}
+.feature-box{
+    text-align: center;
+    padding: 5%;
+}
+.feature-p{
+    padding-left: 7%;
+    text-align: center;
+}
+h2{
+    padding: 4% 12%;
+}
+
+h3{
+    font-size: 1.5rem;
+    padding-top: 3%;
+}
+h3>a{
+    text-decoration: none;
+    color: black;
+}
+p{
+    color: #8f8f8f;
+    text-align: center;
+}
+.clicked-p{
+    margin-left: 32%;
+}
+
+#add-article{
+    background-color:#CDEEFF ;
+}
+.container{
+    padding: 2% ;
+    margin-left: 2% ;
+    background-color: #EBECF1;
+    border-radius: 30px;
+}
+.article-pad{
+    margin: 3% 15% 3% 0%;
+    padding: 3% 5%;
+}
+.article-img{
+    padding: 15% 3%;
+}
+.icon{
+    padding-left: 45%;
+    padding-bottom: 3%;
+}

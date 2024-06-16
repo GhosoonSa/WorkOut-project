@@ -1,0 +1,49 @@
+#register{
+  background-color: #EBECF1;
+}
+.container-fluid{
+  margin-left: 10%;
+}  
+.register-h2{
+  margin: 0% 48% 0% 0%;
+}  
+.input-box input{
+  margin: 1% 0%;
+  height: 40px;
+  border-radius: 40px;
+}
+.small-form-mar{
+  margin-left: 7%;
+  width: 400px;
+}
+.big-input textarea{
+  margin: 7% 5% 2% 25%;
+  width: 400px;
+  border-radius: 30px;
+}
+.register-p{
+  margin: 1% 0% 0% 4%;
+  padding-right: 10%;
+}
+.goback{
+  margin: 1% 13%;
+  background-color: white;
+  border-radius: 40px;
+  width: 30px;
+  height: 35px;
+}
+button>a{
+  text-decoration: none;
+}
+.register-button{
+  height: 35px;
+  margin: 0% 0% 0% 33%;
+  background-color: white;
+  border-radius: 40px;
+  width: 20px;
+}
+p>a{
+  text-decoration: none;
+  margin: 0% 20% 0% 0%;
+}
+

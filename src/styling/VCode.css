@@ -1,0 +1,45 @@
+
+.VCode-container {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #EBECF1;
+  }
+  
+  .VCode-container h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .form-control {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .btn {
+    width: 100%;
+    padding: 10px;
+    background-color: #CDEEFF;
+    border: none;
+    color: white;
+    border-radius: 40px;
+  }
+  
+  .btn:hover {
+    background-color: #b0d1da;
+  }
+  
+  p {
+    text-align: center;
+    margin-top: 10px;
+  }
+  
